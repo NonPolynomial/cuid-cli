@@ -1,0 +1,17 @@
+{
+  "name": "@nonpolynomial/cuid-cli",
+  "version": "1.1.0",
+  "main": "bin/cuid.js",
+  "bin": {
+    "cuid": "bin/cuid.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Sascha \"NonPolynomial\" Metz",
+  "license": "MIT",
+  "dependencies": {
+    "cuid": "^2.1.6",
+    "yargs": "^13.2.2"
+  }
+}
