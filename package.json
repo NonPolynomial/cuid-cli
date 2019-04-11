@@ -1,6 +1,6 @@
 {
   "name": "@nonpolynomial/cuid-cli",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "bin/cuid.js",
   "bin": {
     "cuid": "bin/cuid.js"

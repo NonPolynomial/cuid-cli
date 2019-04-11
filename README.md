@@ -5,11 +5,11 @@ This project provide a solution for your CLI on base of Eric Elliots [CUID](http
 ## Installation
 
 ```bash
-npm -g install cuid-cli
+npm -g install @nonpolynomial/cuid-cli
 
 # or
 
-yarn global add cuid-cli
+yarn global add @nonpolynomial/cuid-cli
 ```
 
 ## Usage
